@@ -37,7 +37,7 @@ Baseado no capítulo 2 tópico 5 ([Sentiment analysis with tidy data / Wordcloud
 ## :art: Layout
 
 <p align="center">
-<img alt="screenshot_WordCloud" width="710" src="">
+<img alt="screenshot_WordCloud" width="710" src="https://raw.githubusercontent.com/lipebol/WordCloud/main/text_mining_with_R/screenshot/WordCloud.png">
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
